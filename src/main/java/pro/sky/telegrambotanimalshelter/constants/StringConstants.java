@@ -23,7 +23,7 @@ public abstract class StringConstants {
 
     public static final String ABOUT_ANIMAL_SHELTER = "О приюте";
 
-    public static final String HI = " привет, меня зовут бот Макс, я помогу тебе с усыновлением собаки или кошки, для этого выбери нужную кнопку!";
+    public static final String HI = " привет, меня зовут бот Игорь, я помогу тебе с усыновлением собаки или кошки, для этого выбери нужную кнопку!";
 
     public static final String SAY_HI = "Привет";
 
@@ -86,17 +86,17 @@ public abstract class StringConstants {
     public static final String INFO_ABOUT_BOT = "Информация о возможностях бота \n- Бот может показать информацию о приюте \n" +
             "- Покажет какие документы нужны \n- Бот может принимать ежедневный отчет о питомце\n" +
             "- Может передать контактные данные волонтерам для связи";
-    public static final String INFO_ABOUT_SHELTER_DOG = "Наш сайт с информацией о приюте для собак \nhttps://newchance.kz/ \n" +
-            "Контактные данные \nNEWCHANCEKZ@GMAIL.COM \n+7(707)897-57-27\n" +
+    public static final String INFO_ABOUT_SHELTER_DOG = "Наш сайт с информацией о приюте для собак \nhttps://kyivmaps.com/blog/6-pritulkiv-dla-tvarin-u-kievi-j-oblasti \n" +
+            "Контактные данные \nbrat.igor1992@gmail.com \n+38(097)787-64-52\n" +
             "Общие рекомендации \nhttps://www.royalcanin.com/ru/dogs/thinking-of-getting-a-dog/\n" +
             "";
-    public static final String INFO_ABOUT_SHELTER_CAT = "Наш сайт с информацией о приюте для кошек \nhttps://newchance.kz/ \n" +
-            "Контактные данные \nNEWCHANCEKZ@GMAIL.COM\n \n+7(707)897-57-27\n" +
+    public static final String INFO_ABOUT_SHELTER_CAT = "Наш сайт с информацией о приюте для кошек \nhttps://kyivmaps.com/blog/6-pritulkiv-dla-tvarin-u-kievi-j-oblasti \n" +
+            "Контактные данные \nbrat.igor1992@gmail.com\n \n+38(097)787-64-52\n" +
             "Общие рекомендации \nhttps://www.royalcanin.com/ru/dogs/thinking-of-getting-a-cat/\n" +
             "";
-    public static final String SCHEMA_2GIS = "Наш адрес: г. Алматы, ул. Байзакова 130." +
-            "\nДля построения маршрута перейдите по ссылке: \n https://2gis.kz/geo/9429940000798774/76.912611639127135,43.255015121537561" +
-            "\nПропуск на автомобиль можно оформить в пункте охраны по предварительному звонку: т. 8 (999) 277-27-07";
+    public static final String SCHEMA_2GIS = "Наш адрес: г. Киев, ул. Крещатик 12." +
+            "\nДля построения маршрута перейдите по ссылке: \n https://www.google.com/maps/place/Київ,+Україна,+02000/@50.4015698,30.2030564,10z/data=!3m1!4b1!4m6!3m5!1s0x40d4cf4ee15a4505:0x764931d2170146fe!8m2!3d50.4501!4d30.5234!16zL20vMDJzbjM0?entry=ttu" +
+            "\nПропуск на автомобиль можно оформить в пункте охраны по предварительному звонку: т. +38 (097) 787-64-52";
 
     public static final String SAFETY = "Техника безопасности при нахождении в приюте:" +
             "\n 1. Ходить только по обозначенным тротуарам" +
